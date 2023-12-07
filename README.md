@@ -1,4 +1,4 @@
-# 말하는 감자
+## Hello, I'm GaYoung Hong!
 <h3>Link & Contacts</h3>
 <a href="https://blog.naver.com/okmohae" target="_blank"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/></a>
 <a href="https://velog.io/@kaouo" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
