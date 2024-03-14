@@ -1,4 +1,4 @@
-## Hello, I'm GaYoung Hong! (/≧▽≦)/
+## Hello, I'm GaYoung Hong!
 
 <h3>Link & Contacts</h3>
 <a href="https://blog.naver.com/okmohae" target="_blank"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/></a>
