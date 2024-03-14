@@ -2,7 +2,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaouo&count_bg=%23FFCBDE&title_bg=%23646464&icon=&icon_color=%23858585&title=hits&edge_flat=false"/></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=50&pause=1000&color=E69AD2FF&center=true&vCenter=true&random=false&width=1300&height=150&lines=Hello%2C+I'm+GaYoung+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=f4c5d6&center=true&vCenter=true&random=false&width=1300&height=150&lines=Hello%2C+I'm+GaYoung+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 
 <h4 align="center">Tech Stack</h4>
 <p align="center">
