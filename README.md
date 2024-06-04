@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">⚒️ Tech Stack ⚒️</h3>
+<h3 align="center">⚒️ Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -19,14 +19,22 @@
 
 <br>
 
-<h3 align="center">📂 Certifications 📂</h3>
+<h3 align="center">📂 Certifications </h3>
 <p align="center">
-  - 데이터분석준전문가(ADsP)
+    - 데이터분석준전문가(ADsP)
 </p>
 
 <br>
 
-<h3 align="center">📩 Contacts 📩</h3>
+<h3 align="center"> 🏆 Prize </h3>
+<p align="center">
+2023년 영남이공대학교 캡스톤 디자인 경진 대회 (금상) <br>
+2023년 디지텍 캡스톤 대회 (디지텍상)
+</p>
+
+<br>
+  
+<h3 align="center">📩 Contacts </h3>
 <p align="center">
   <a href="https://blog.naver.com/okmohae" target="_blank"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/></a>
   <a href="https://velog.io/@kaouo" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
