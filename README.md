@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=f4c5d6&center=true&vCenter=true&random=false&width=1300&height=150&lines=Hello%2C+I'm+GaYoung+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 </a>
 
-<h4 align="center">Tech Stack</h4>
+<br>
+
+<h4 align="center">⚒️ Tech Stack ⚒️</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -15,7 +17,16 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 </p>
 
-<h4 align="center">Contacts</h4>
+<br>
+
+<h4 align="center">📂 Certifications 📂</h4>
+<p align="center">
+  - 데이터분석준전문가(ADsP)
+</p>
+
+<br>
+
+<h4 align="center">📩 Contacts 📩</h4>
 <p align="center">
   <a href="https://blog.naver.com/okmohae" target="_blank"><img src="https://img.shields.io/badge/BLOG-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/></a>
   <a href="https://velog.io/@kaouo" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
