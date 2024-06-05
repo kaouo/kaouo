@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 </p>
 
+<br>
+
 ## 📊 Career
 - Yeungnam University College, Division of Software & Contents **`2021.03 - 현재`**
   - 멋쟁이사자처럼 12기(영남이공대학교 1기) 아기사자 **`2024.03 - 현재`**
