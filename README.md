@@ -14,7 +14,7 @@
 - Yeungnam University College, Division of Software & Contents **`2021.03 - 현재`**
   - 멋쟁이사자처럼 12기(영남이공대학교 1기) 아기사자 **`2024.03 - 현재`**
 - Kyungduk Girl's High School **`2015.03 - 2018.02`**
-  - 방송부 K.D.B.S 아나운서 **`2015.03 - 2018.02`**
+  - 방송부 K.D.B.S 33대 아나운서 **`2015.03 - 2018.02`**
   - 학급 반장 **`2016.03 - 2017.02`**
 - Keisung Middle School **`2012.03 - 2015.02`**
 
