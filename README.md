@@ -10,16 +10,6 @@
 
 <br>
 
-## ⚒️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-</p>
-
-<br>
-
 ## 📊 Career
 - Yeungnam University College, Division of Software & Contents **`2021.03 - 현재`**
   - 멋쟁이사자처럼 12기(영남이공대학교 1기) 아기사자 **`2024.03 - 현재`**
@@ -63,6 +53,16 @@
 - 진로포트폴리오 대회 **장려상(3위)** **`2016.02`**
 - 학습플래너 활용 대회 **우수상(2위)** **`2015.07`**
 - 미소친절상 **`2017` `2015`**
+
+<br>
+
+## ⚒️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+</p>
 
 <br>
 
