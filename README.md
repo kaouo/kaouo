@@ -17,7 +17,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
 </p>
-</p>
+
+## 📊 Career
+- Yeungnam University College, Division of Software & Contents **`2021.03 - 현재`**
+  - 멋쟁이사자처럼 12기(영남이공대학교 1기) 아기사자 **`2024.03 - 현재`**
+- Kyungduk Girl's High School **`2015.03 - 2018.02`**
+  - 방송부 K.D.B.S 아나운서 **`2015.03 - 2018.02`**
+- Keisung Middle School **`2012.03 - 2015.02`**
 
 <br>
 
@@ -29,12 +35,22 @@
 
 ## 🏃 Activity
 - 파이썬을 활용한 빅데이터 교육 수료 **`2023.07`**
+- 피키캐스트 핔핔이 **`2021.01 - 2021.02`**
+- 교보문고 보라프렌즈 **`2019.12 - 2021.09`**
 
 <br>
 
 ## 📝 Certifications
 - 데이터분석준전문가(ADsP) **`2024.06`**
 - MOS Excel(Expert) **`2021.06`**
+
+<br>
+
+## 🏫 School Award
+- 자율 동아리 보고서 쓰기 대회 **최우수(1위)** **`2016.12`**
+- 진로포트폴리오 대회 **장려상(3위)** **`2016.02`**
+- 학습플래너 활용 대회 **우수상(2위)** **`2015.07`**
+- 미소친절상 **`2015`** **`2017`**
 
 <br>
 
