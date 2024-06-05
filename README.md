@@ -73,3 +73,9 @@
   <a href="https://www.instagram.com/iuving" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCaRDi8Oq65CM84tslSiKJVQ" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+<div align="left">
+  <h2 align="left">📊 GitHub Stats</h2>
+    <a href="https://github.com/kaouo"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=kaouo" alt="Anurag&#39;s github stats"></a>
+    <a href="https://github.com/kaouo"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouo&amp;layout=compact" alt="Top Langs"></a>
+</div>
