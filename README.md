@@ -1,12 +1,10 @@
-<p align="left" style="margin-bottom: 0;">
+<p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=f4c5d6&center=false&vCenter=true&random=false&width=1300&height=150&lines=Hello%2C+GaYoung+World!" 
+    src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=F4AABF&center=false&vCenter=true&random=false&width=1300&height=150&lines=Hello%2C+GaYoung+World!" 
     alt="Typing SVG" 
-    style="margin-bottom: -30px;" 
+    style="margin-bottom: -20px;" 
   />
 </p>
-
-<br>
 
 ## 💌 Contact
 <a href="https://kaouo-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -35,5 +33,5 @@
 <br><br>
 
 <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaouo&count_bg=%23FFCBDE&title_bg=%23646464&icon=&icon_color=%23858585&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaouo&count_bg=%23F4AABF&title_bg=%23646464&icon=&icon_color=%23858585&title=hits&edge_flat=false"/>
 </a>
