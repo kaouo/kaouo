@@ -1,6 +1,6 @@
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=F4AABF&center=false&vCenter=true&random=false&width=1300&height=150&lines=%22HELLO%2C+KAYOUNG+WORLD!%22" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&pause=1000&color=F4AABF&center=false&vCenter=true&random=false&width=1300&height=150&lines=%22HELLO%2C+KAYOUNG+WORLD!%22" 
     alt="Typing SVG" 
     style="margin-bottom: -20px;" 
   />
