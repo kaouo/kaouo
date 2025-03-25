@@ -29,9 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaouo&show_icons=true&theme=rose_pine" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouo&layout=compact&theme=rose_pine" height="180px"/>
 </div>
-
-<br><br>
-
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaouo&count_bg=%23F4AABF&title_bg=%23646464&icon=&icon_color=%23858585&title=hits&edge_flat=false"/>
-</a>
